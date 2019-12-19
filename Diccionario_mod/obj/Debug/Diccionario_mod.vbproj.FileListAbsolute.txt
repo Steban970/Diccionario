@@ -1,0 +1,40 @@
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe.config
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.pdb
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.xml
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbprojAssemblyReference.cache
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Resources.resources
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana2.resources
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbproj.GenerateResource.cache
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbproj.CoreCompileInputs.cache
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.exe
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.xml
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.pdb
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana3.resources
+C:\Users\dyego\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana1.resources
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe.config
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.pdb
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.xml
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbprojAssemblyReference.cache
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana1.resources
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Resources.resources
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana2.resources
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana3.resources
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbproj.GenerateResource.cache
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.exe
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.xml
+C:\Users\nicol\source\repos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.pdb
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe.config
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.exe
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.pdb
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\bin\Debug\Diccionario_mod.xml
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbprojAssemblyReference.cache
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana1.resources
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Resources.resources
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana2.resources
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.Ventana3.resources
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.vbproj.GenerateResource.cache
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.exe
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.xml
+G:\estructura de datos\Diccionario_mod\Diccionario_mod\obj\Debug\Diccionario_mod.pdb
